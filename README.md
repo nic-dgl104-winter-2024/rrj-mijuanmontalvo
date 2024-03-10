@@ -63,3 +63,13 @@ I would like to focus on the PHP programming language.
 Last semester I took the course "Introduction to PHP", in this course I developed a small project, I do not have much experience in this programming language, however I liked the results that can be achieved with this language. 
 
 I would like to learn more about this programming language because it works very well with HTML and with databases (free software) like MYSQL. I consider it to be a very good option for building web applications. I like to make queries in databases and I believe that this would be good practice.
+
+## Star github topics and repositories of interest
+
+In order to prepare for the Community Code project, I have visited the https://github.com/explore on this website and reviewed the following tabs:
+
+- https://github.com/topics
+- https://github.com/trending
+- https://github.com/collections
+
+On this website I applied several "PHP" filters to which I obtained many options of repositories related to PHP projects.
