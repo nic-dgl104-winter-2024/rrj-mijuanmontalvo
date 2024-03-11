@@ -190,3 +190,19 @@ Client: MacBook
 Browser:
 Safari, Firefox, Google Chrome
 Same result in all cases.
+
+## Summary for slack
+
+One of the projects that I have reviewed and could contribute to is Ushahidi Platform.
+
+Ushahidi Platform is an open source web application for information collection, visualization and interactive mapping. It helps you to collect info from: SMS, Twitter, RSS feeds, Email. It helps you to process that information, categorize it, geo-locate it and publish it on a map.
+
+One of the issues found for this application is the following (URL: https://github.com/ushahidi/platform/issues/4794):
+
+the error message when adding a new post is "Failed to create a post. Please recheck your input"
+Grammatical error: "please recheck your input." The word "the" before "your input" is redundant and should be removed for correct grammar. The correct form should be: "please recheck your input."
+Capitalization error: The please in the statement should start in capital letter 'P'.
+
+I consider that since I do not have great knowledge of PHP coding, I could contribute to the review of the interface in search of other grammatical errors and suggest improvement changes to the application text.
+
+
