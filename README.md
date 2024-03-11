@@ -73,3 +73,61 @@ In order to prepare for the Community Code project, I have visited the https://g
 - https://github.com/collections
 
 On this website I applied several "PHP" filters to which I obtained many options of repositories related to PHP projects.
+
+
+# Week 9
+
+## Read the community code assignment
+
+This assignment is composed of two parts. I will have to contribute to both parts, however I will only have to contribute code to one of them (other contributions include improving documentation, issue management and classification, bug reporting, site development, etc.)
+
+In Part 2 I will also have to contribute to a true open source community. I will contribute to the DGL 104 pattern library repository to help produce a code resource for potential future DGL 104 students.
+
+## Read “HOW TO CONTRIBUTE TO OPEN SOURCE”
+
+
+Contributing to open source can be a rewarding way to learn, teach, and gain experience in virtually any skill you can imagine.
+
+Here are some reasons why people contribute to open source:
+
+- Improve software you rely on
+- Improve existing skills
+- Meet people who are interested in similar things
+- Find mentors and teach others
+- Build public artifacts that help you grow a reputation (and a career)
+- Learn people skills
+- It’s empowering to be able to make changes, even small ones
+
+There are all kinds of ways to get involved in an open source project, and a few tips will help you get the most out of your experience. It is possible to contribute in several ways to a project not only in the code. Here are some ways to contribute to a project:
+
+- Organize events that contribute to the project.
+- Improvements to the project design.
+- Write tutorials and documentation for the project.
+- Organize project information.
+- Contribute with user tests
+- Review project code and recommend improvements.
+
+In conclusion, it is possible to contribute to a project in various ways not only through the code, the important thing is to understand that the contribution will help the project, its readers and will also help the person contributing with practice and learning.
+
+## Find potential projects to contribute to
+
+Below are three PHP projects that I selected to review their information:
+
+**Project 1:** phpDocumentor
+
+URL Github: https://github.com/phpDocumentor/phpDocumentor
+
+I chose this project because it is a project that has 157 contributors, 154 issues and records recent updates. phpDocumentor stands as the de-facto documentation tool for PHP projects, offering a robust solution for generating comprehensive documentation effortlessly. By analyzing your PHP source code and DocBlock comments, phpDocumentor generates a complete set of API documentation, making it an indispensable tool for developers striving for clear and well-documented codebases.tool for developers striving for clear and well-documented codebases.
+
+**Project 2:** Ushahidi
+
+URL Github: https://github.com/ushahidi/platform
+
+I chose this project because it is a project that has 66 contributors, 666 issues and records recent updates. Ushahidi Platform is an open source web application for information collection, visualization and interactive mapping. It helps you to collect info from: SMS, Twitter, RSS feeds, Email. It helps you to process that information, categorize it, geo-locate it and publish it on a map.
+
+
+**Project 3:** SolidInvoice
+
+URL Github: https://github.com/SolidInvoice/SolidInvoice
+
+I chose this project because it is a project that has 15 contributors, 35 issues and records recent updates. SolidInvoice is a sophisticated open-source invoicing application designed to assist small businesses and freelancers in efficiently managing their daily billing operations. With its comprehensive range of features, this elegant online platform ensures that you receive timely payments.
