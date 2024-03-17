@@ -118,12 +118,17 @@ Below are three PHP projects that I selected to review their information:
 URL Github: https://github.com/phpDocumentor/phpDocumentor
 
 I chose this project because it is a project that has 157 contributors, 154 issues and records recent updates. phpDocumentor stands as the de-facto documentation tool for PHP projects, offering a robust solution for generating comprehensive documentation effortlessly. By analyzing your PHP source code and DocBlock comments, phpDocumentor generates a complete set of API documentation, making it an indispensable tool for developers striving for clear and well-documented codebases.tool for developers striving for clear and well-documented codebases.
+![Checklist-phpDocumentor](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/3e528648-ea0e-4dce-af57-4f769655ff5c)
+
+
 
 **Project 2:** Ushahidi
 
 URL Github: https://github.com/ushahidi/platform
 
 I chose this project because it is a project that has 66 contributors, 666 issues and records recent updates. Ushahidi Platform is an open source web application for information collection, visualization and interactive mapping. It helps you to collect info from: SMS, Twitter, RSS feeds, Email. It helps you to process that information, categorize it, geo-locate it and publish it on a map.
+![Checklist-ushahidi](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/048f23b9-bd5d-44f7-89c5-debb7b1f6981)
+
 
 
 **Project 3:** SolidInvoice
@@ -131,6 +136,8 @@ I chose this project because it is a project that has 66 contributors, 666 issue
 URL Github: https://github.com/SolidInvoice/SolidInvoice
 
 I chose this project because it is a project that has 15 contributors, 35 issues and records recent updates. SolidInvoice is a sophisticated open-source invoicing application designed to assist small businesses and freelancers in efficiently managing their daily billing operations. With its comprehensive range of features, this elegant online platform ensures that you receive timely payments.
+![Checklist-SolidInvoice](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/26309fcf-a6b6-4082-8cc3-0262fa8606c2)
+
 
 ## Identify issues to support
 
