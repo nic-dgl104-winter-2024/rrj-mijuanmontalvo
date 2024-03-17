@@ -214,9 +214,9 @@ I have proceeded to review the information related to the contribution, in the U
 
 As indicated in the previous paragraph, the project is very open to external contributions, for which they have a gitter channel where new contributors can ask or ask questions about their contributions.
 
-**Contributing.md URL:** https://github.com/mijuanmontalvo/platform/blob/develop/CONTRIBUTING.md
+**Contributing.md URL:** [CONTRIBUTING.md](https://github.com/mijuanmontalvo/platform/blob/develop/CONTRIBUTING.md)
 
-**Gitter URL:** https://app.gitter.im/#/room/#ushahidi_Community:gitter.im
+**Gitter URL:** [gitter](https://app.gitter.im/#/room/#ushahidi_Community:gitter.im)
 
 ## WRITE A SUMMARY ON SLACK
 
