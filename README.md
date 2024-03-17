@@ -205,4 +205,15 @@ Capitalization error: The please in the statement should start in capital letter
 
 I consider that since I do not have great knowledge of PHP coding, I could contribute to the review of the interface in search of other grammatical errors and suggest improvement changes to the application text.
 
+# Week 10
 
+## ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
+
+I have proceeded to review the information related to the contribution, in the Ushahidi project I found the file Contributing.md in which they indicate the following:
+  "There are many ways to get involved with Ushahidi projects, and some of them are great even for first time contributors. If you never contributed to Open Source Software before, or need more guidance doing it, please jump in our gitter channel with a clear description of what you are trying to do, and someone in there will try to help you."
+
+As indicated in the previous paragraph, the project is very open to external contributions, for which they have a gitter channel where new contributors can ask or ask questions about their contributions.
+
+**Contributing.md URL:** https://github.com/mijuanmontalvo/platform/blob/develop/CONTRIBUTING.md
+
+**Gitter URL:** https://app.gitter.im/#/room/#ushahidi_Community:gitter.im
