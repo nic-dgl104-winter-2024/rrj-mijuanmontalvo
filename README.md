@@ -221,10 +221,13 @@ I have proceeded to review the information related to the contribution, in the U
 
 As indicated in the previous paragraph, the project is very open to external contributions, for which they have a gitter channel where new contributors can ask or ask questions about their contributions.
 
-**Contributing.md URL:** [CONTRIBUTING.md](https://github.com/mijuanmontalvo/platform/blob/develop/CONTRIBUTING.md)
+**Contributing.md of Ushahidi project URL :** [CONTRIBUTING.md](https://github.com/mijuanmontalvo/platform/blob/develop/CONTRIBUTING.md)
 
-**Gitter URL:** [gitter](https://app.gitter.im/#/room/#ushahidi_Community:gitter.im)
+**Gitter channel of Ushahidi project URL:** [gitter](https://app.gitter.im/#/room/#ushahidi_Community:gitter.im)
+
 
 ## WRITE A SUMMARY ON SLACK
 
 On Sunday, March 17, I sent a message in Slack about my summary of the Contributing.md file, in the message I included the url of the file and a url of a gitter channel for new contributors to the Ushahidi project
+
+## CONTRIBUTE TO EXTERNAL COMMUNITY
