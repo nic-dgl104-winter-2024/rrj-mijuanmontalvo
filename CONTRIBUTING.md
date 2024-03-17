@@ -15,3 +15,5 @@ On the other hand, in the Contributing.md file they indicate that it is possible
 Additionally, in this project there is a code of conduct that describes the way in which people should make their comments, contributions, etc. The code of conduct also refers to conflicts of interest when carrying out an evaluation on someone who breached the code of conduct.
 
 In general, I find this type of document very appropriate and very necessary for the contributors and collaborators of the project to read this type of document before starting to get involved in the project. This will help maintain a good collaborative environment in the project.
+
+I consider that even though the text of the Contributing.md file is small, it is also very concise and makes it very clear that the project is very open to receiving external contributions.
