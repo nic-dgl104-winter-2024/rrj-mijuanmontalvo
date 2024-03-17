@@ -217,3 +217,7 @@ As indicated in the previous paragraph, the project is very open to external con
 **Contributing.md URL:** https://github.com/mijuanmontalvo/platform/blob/develop/CONTRIBUTING.md
 
 **Gitter URL:** https://app.gitter.im/#/room/#ushahidi_Community:gitter.im
+
+## WRITE A SUMMARY ON SLACK
+
+On Sunday, March 17, I sent a message in Slack about my summary of the Contributing.md file, in the message I included the url of the file and a url of a gitter channel for new contributors to the Ushahidi project
