@@ -231,3 +231,11 @@ As indicated in the previous paragraph, the project is very open to external con
 On Sunday, March 17, I sent a message in Slack about my summary of the Contributing.md file, in the message I included the url of the file and a url of a gitter channel for new contributors to the Ushahidi project
 
 ## CONTRIBUTE TO EXTERNAL COMMUNITY
+
+To start my contribution to the Ushahidi project I have taken the following actions:
+
+- I have forked the usahhidi project on my personal account ([usahhidi fork](https://github.com/mijuanmontalvo/platform/tree/Contribution1))
+
+- I have made a clone of the fork on my local computer.
+
+- I have created a branch with the name Contribution1, in this branch I will make the changes that are necessary for the fork of the initial repository
