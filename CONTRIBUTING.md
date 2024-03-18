@@ -24,9 +24,11 @@ I would like to work in the next issue: [Outreachy Task Submission] Grammatical 
 
 Below is the text that describes the issue:
 
-URL Issue: https://github.com/ushahidi/platform/issues/4794
-Author: Gbolahan Oladeji
-Issue description: 
+**URL Issue:** https://github.com/ushahidi/platform/issues/4794
+
+**Author:** Gbolahan Oladeji
+
+**Issue description:**
 
 the error message when adding a new post is "Failed to create a post. please recheck the your input"
 
