@@ -259,6 +259,14 @@ I would like to review this issue and search a possible solution.
 
 ## CONTRIBUTE TO PATTERN-LIBRARY
 
+To start my contribution to the pattern-library project I have taken the following actions:
+
+- I have forked the usahhidi project on my personal account ([pattern-library fork](https://github.com/mijuanmontalvo/pattern-library))
+
+- I have made a clone of the fork on my local computer.
+
+- I have created a branch with the name Contribution1, in this branch I will make the changes that are necessary for the fork of the initial repository
+
 I would like to work in the issue: "Write definition of Observer pattern in README.md #23" because I am new in design patterns and I would like to start learning with the definitions firt
 
 ## FOLLOW-UP QUESTIONS AND REFLECTIONS
