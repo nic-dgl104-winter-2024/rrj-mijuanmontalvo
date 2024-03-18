@@ -24,6 +24,7 @@ I would like to work in the next issue: [Outreachy Task Submission] Grammatical 
 
 Below is the text that describes the issue:
 
+URL Issue: https://github.com/ushahidi/platform/issues/4794
 Author: Gbolahan Oladeji
 Issue description: 
 
