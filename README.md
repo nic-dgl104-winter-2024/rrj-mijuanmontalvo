@@ -273,4 +273,4 @@ I would like to work in the issue: "Write definition of Observer pattern in READ
 
 **What is the hardest/most challenging thing you had to do this week for DGL 104? How did you overcome this challenge?**
 
-The most difficult thing was finding a problem in the external and internal repositories that I could support with my level of knowledge, taking into account that I have never performed tasks similar to these. The way to overcome this problem was to review as much information as possible related to the issues.
+The most difficult thing was finding a issue in the external and internal repositories that I could support with my level of knowledge, taking into account that I have never performed tasks similar to these. The way to overcome this problem was to review as much information as possible related to the issues.
