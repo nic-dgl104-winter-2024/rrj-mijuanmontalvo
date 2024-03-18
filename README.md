@@ -239,3 +239,20 @@ To start my contribution to the Ushahidi project I have taken the following acti
 - I have made a clone of the fork on my local computer.
 
 - I have created a branch with the name Contribution1, in this branch I will make the changes that are necessary for the fork of the initial repository
+
+I would like to work in the next issue: [Outreachy Task Submission] Grammatical Error and Capitalization Error in the error message when adding a new post #4794
+
+Below is the text that describes the issue:
+
+**URL Issue:** https://github.com/ushahidi/platform/issues/4794
+
+**Author:** Gbolahan Oladeji
+
+**Issue description:**
+
+the error message when adding a new post is "Failed to create a post. please recheck the your input"
+
+Grammatical error: "please recheck the your input." The word "the" before "your input" is redundant and should be removed for correct grammar. The correct form should be: "please recheck your input."
+Capitalization error: The please in the statement should start in capital letter 'P'.
+
+I would like to review this issue and search a possible solution.
