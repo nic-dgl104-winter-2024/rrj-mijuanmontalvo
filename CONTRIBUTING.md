@@ -17,3 +17,21 @@ Additionally, in this project there is a code of conduct that describes the way 
 In general, I find this type of document very appropriate and very necessary for the contributors and collaborators of the project to read this type of document before starting to get involved in the project. This will help maintain a good collaborative environment in the project.
 
 I consider that even though the text of the Contributing.md file is small, it is also very concise and makes it very clear that the project is very open to receiving external contributions.
+
+## CONTRIBUTE TO EXTERNAL COMMUNITY
+
+I would like to work in the next issue: [Outreachy Task Submission] Grammatical Error and Capitalization Error in the error message when adding a new post #4794
+
+Below is the text that describes the issue:
+
+Author: Gbolahan Oladeji
+Issue description: 
+
+the error message when adding a new post is "Failed to create a post. please recheck the your input"
+
+Grammatical error: "please recheck the your input." The word "the" before "your input" is redundant and should be removed for correct grammar. The correct form should be: "please recheck your input."
+Capitalization error: The please in the statement should start in capital letter 'P'.
+
+I would like to review this issue and search a possible solution.
+
+
