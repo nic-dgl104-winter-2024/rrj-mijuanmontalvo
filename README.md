@@ -256,3 +256,13 @@ Grammatical error: "please recheck the your input." The word "the" before "your 
 Capitalization error: The please in the statement should start in capital letter 'P'.
 
 I would like to review this issue and search a possible solution.
+
+## CONTRIBUTE TO PATTERN-LIBRARY
+
+I would like to work in the issue: "Write definition of Observer pattern in README.md #23" because I am new in design patterns and I would like to start learning with the definitions firt
+
+## FOLLOW-UP QUESTIONS AND REFLECTIONS
+
+**What is the hardest/most challenging thing you had to do this week for DGL 104? How did you overcome this challenge?**
+
+The most difficult thing was finding a problem in the external and internal repositories that I could support with my level of knowledge, taking into account that I have never performed tasks similar to these. The way to overcome this problem was to review as much information as possible related to the issues.
