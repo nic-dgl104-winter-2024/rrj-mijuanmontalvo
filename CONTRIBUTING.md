@@ -26,13 +26,13 @@ I would like to contribute to the repository [ushahidi/platform](https://github.
 
 Ushahidi Platform is an open source web application for information collection, visualization and interactive mapping. It helps you to collect info from: SMS, Twitter, RSS feeds, Email. It helps you to process that information, categorize it, geo-locate it and publish it on a map.
 
-**Issue #4794 of Ushahidi Platform**
+#### Issue #4794 of Ushahidi Platform
 
 I checked the [issue #4794](https://github.com/ushahidi/platform/issues/4794), which has the following detail:
 
 **Title:** [Outreachy Task Submission] Grammatical Error and Capitalization Error in the error message when adding a new post
 
-**Description:** the error message when adding a new post is "Failed to create a post. please recheck the your input"  
+**Issue Description:** the error message when adding a new post is "Failed to create a post. please recheck the your input"  
 
 Grammatical error: "please recheck the your input." The word "the" before "your input" is redundant and should be removed for correct grammar. The correct form should be: "please recheck your input."
 Capitalization error: The please in the statement should start in capital letter 'P'.
@@ -41,16 +41,9 @@ Capitalization error: The please in the statement should start in capital letter
 
 **Author:** Gbolahan Oladeji
 
-**Issue description:**
+**Actions done:** When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the link [Installation guides](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives) which is within the REAADME.md file located at the root of the repository, however when I click on this link it takes me to a page that has a message that the page was not found "Page not found The page you are looking for doesn't exist." [link](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives)
 
-the error message when adding a new post is "Failed to create a post. please recheck the your input"
-
-Grammatical error: "please recheck the your input." The word "the" before "your input" is redundant and should be removed for correct grammar. The correct form should be: "please recheck your input."
-Capitalization error: The please in the statement should start in capital letter 'P'.
-
-I would like to review this issue and search a possible solution.
-
-When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the link [Installation guides](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives) which is within the REAADME.md file located at the root of the repository, however when I click on this link it takes me to a page that has a message that the page was not found "Page not found The page you are looking for doesn't exist." [link](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives)
+#### Issue #4794 of Ushahidi Platform
 
 Since I found the problem detailed in the previous paragraph, I decided to try to contribute by reporting the problem of this link. So I created an issue in the (real) Ushahidi Platform repository, below is a detail of the issue that I uploaded:
 
