@@ -91,7 +91,7 @@ Possible solution: I consider that the file associated with "Installation guides
 
 **Actions done (external):**
 
-I checked the pull request list in [repository of Ushahidi Platform](https://github.com/ushahidi/platform/pull/4849) and currently there is a open pull request (#4849) that is related to mi issue #4846:
+I checked the pull request list in [repository of Ushahidi Platform](https://github.com/ushahidi/platform/pull/4849) and currently there is a open pull request (#4849) that is related to my issue #4846:
 
 ![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/024b034c-d925-416e-bb7a-83e8b8cb6eb7)
 
