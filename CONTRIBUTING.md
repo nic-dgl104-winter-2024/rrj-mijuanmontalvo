@@ -97,5 +97,8 @@ In order to contribute to my issue #4846, within the [Contribution1 branch](http
 
 Replicate the modifications made in Contribution1 branch to the main [develop branch](https://github.com/mijuanmontalvo/platform/tree/develop?tab=readme-ov-file) of my clone
 
+**Note:** About mi issue #4846 I think that it is not possible to send a pull request since I checked the pull request list and currently there is a pull request that is related to mi issue #4846:
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/024b034c-d925-416e-bb7a-83e8b8cb6eb7)
 
 
