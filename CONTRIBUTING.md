@@ -22,11 +22,12 @@ I consider that even though the text of the Contributing.md file is small, it is
 
 I would like to contribute to the repository (ushahidi/platform)[https://github.com/ushahidi/platform]
 
-**Ushahidi Platform**
+### Ushahidi Platform
 
 Ushahidi Platform is an open source web application for information collection, visualization and interactive mapping. It helps you to collect info from: SMS, Twitter, RSS feeds, Email. It helps you to process that information, categorize it, geo-locate it and publish it on a map.
 
 **Issue #4794 of Ushahidi Platform**
+
 I checked the next issue: [Outreachy Task Submission] Grammatical Error and Capitalization Error in the error message when adding a new post #4794. This issue is in the repository of (ushahidi/platform)[https://github.com/ushahidi/platform]
 
 Below is the text that describes the issue:
