@@ -89,16 +89,32 @@ Possible solution: I consider that the file associated with "Installation guides
 
 **Author:** mijuanmontalvo
 
-**Actions done:** 
+**Actions done (external):**
+
+I checked the pull request list in [repository of Ushahidi Platform](https://github.com/ushahidi/platform/pull/4849) and currently there is a open pull request (#4849) that is related to mi issue #4846:
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/024b034c-d925-416e-bb7a-83e8b8cb6eb7)
+
+[Here](https://github.com/ushahidi/platform/pull/4849) it is possible to see more detail about pull request #4849
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/91e749ec-ef24-47ce-a1ea-8931794b55f2)
+
+On the next screen it is possible to see the lines of code that have been changed in the pull request #4849
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/2fc867f8-d6c0-48f1-8cab-13e65f7ada10)
+
+**Actions done (internal):** 
 
 In order to contribute to my issue #4846, within the [Contribution1 branch](https://github.com/mijuanmontalvo/platform/tree/Contribution1?tab=readme-ov-file) I modified the code of the README.md file, corrected the link of the text "Installation guides", below how the edited text looked:
 
 - "[Installation guides](https://docs.ushahidi.com/platform-developer-documentation/v/"
 
-Replicate the modifications made in Contribution1 branch to the main [develop branch](https://github.com/mijuanmontalvo/platform/tree/develop?tab=readme-ov-file) of my clone
+Replicate the modifications made in Contribution1 branch to the main [develop branch](https://github.com/mijuanmontalvo/platform/tree/develop?tab=readme-ov-file) of my clone.
 
-**Note:** About mi issue #4846 I think that it is not possible to send a pull request since I checked the pull request list and currently there is a pull request that is related to mi issue #4846:
 
-![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/024b034c-d925-416e-bb7a-83e8b8cb6eb7)
+
+
+
+
 
 
