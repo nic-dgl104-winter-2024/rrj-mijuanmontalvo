@@ -274,3 +274,30 @@ I would like to work in the issue: "Write definition of Observer pattern in READ
 **What is the hardest/most challenging thing you had to do this week for DGL 104? How did you overcome this challenge?**
 
 The most difficult thing was finding a issue in the external and internal repositories that I could support with my level of knowledge, taking into account that I have never performed tasks similar to these. The way to overcome this problem was to review as much information as possible related to the issues.
+
+# Week 11
+
+## CONNECT WITH YOUR EXTERNAL COMMUNITY
+
+In the ushahidi/Community gitter channel I sent a message with the following text:
+
+"Hello everyone, I am Juan from Ecuador, I good like to know more about Ushahidi, I neve have made a contribution in a project, please could anyone tell me if there is any document where I can see the instructions for contributing in the documentation of this project, thank you very much "
+
+[gitter](https://app.gitter.im/#/room/#ushahidi_Community:gitter.im)
+
+## READ THROUGH PATTERN LIBRARY ISSUES
+
+- I checked the issues of the "pattern-library" repository
+
+- I made comments to issue #23 "Write definition of Observer pattern in README.md #23".
+
+- I made comments to issue #26 "Identify a potential short list of additional design patterns" and I requested to work on issue #26 about it (issue #26 was assigned to me)
+
+- I visited the pull requests tab of the pattern library and read the open pull requests.
+
+
+## CONTINUE CONTRIBUTIONS TO EXTERNAL COMMUNITY
+
+
+## CONTRIBUTE TO PATTERN-LIBRARY
+
