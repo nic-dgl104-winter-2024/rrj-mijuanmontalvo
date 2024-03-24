@@ -41,8 +41,19 @@ Capitalization error: The please in the statement should start in capital letter
 
 I would like to review this issue and search a possible solution.
 
-When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the link [Installation guides](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives) which is located in the REASDME.md file, however this link takes me to a page that has a message that it could not be found the page
+When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the link [Installation guides](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives) which is within the REAADME.md file located at the root of the repository, however when I click on this link it takes me to a page that has a message that the page was not found "Page not found The page you are looking for doesn't exist." [link](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives)
 
+Since I found the problem detailed in the previous paragraph, I decided to try to contribute by reporting the problem of this link. So I created an issue in the (real) Ushahidi Platform repository, below is a detail of the issue that I uploaded:
+
+Issue number: #4846
+Issue Description: Good morning everyone, I am interested in knowing more about the Ushahidi project, however, I was reading the README.md file and I tried to enter the "Installation guides" link in the Useful Links section and I got the following message "Page not found Sorry."
+
+Issue URL: https://github.com/ushahidi/platform (README.md)
+
+Impact: Users who cannot find this file may feel misplaced and lost when trying to install Ushahidi
+
+Possible solution: I consider that the file associated with "Installation guides" is not correctly located or was deleted, perhaps it is necessary to load that file again.
+URL issue: https://github.com/ushahidi/platform/issues/4846
 
 
 
