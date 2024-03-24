@@ -30,9 +30,13 @@ Ushahidi Platform is an open source web application for information collection, 
 
 I checked the [issue #4794](https://github.com/ushahidi/platform/issues/4794), which has the following detail:
 
+**Issue number:** #4794
+
 **Title:** [Outreachy Task Submission] Grammatical Error and Capitalization Error in the error message when adding a new post
 
-**Issue Description:** the error message when adding a new post is "Failed to create a post. please recheck the your input"  
+**Issue text:** 
+
+the error message when adding a new post is "Failed to create a post. please recheck the your input"  
 
 Grammatical error: "please recheck the your input." The word "the" before "your input" is redundant and should be removed for correct grammar. The correct form should be: "please recheck your input."
 Capitalization error: The please in the statement should start in capital letter 'P'.
@@ -41,21 +45,37 @@ Capitalization error: The please in the statement should start in capital letter
 
 **Author:** Gbolahan Oladeji
 
-**Actions done:** When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the link [Installation guides] which is within the REAADME.md file located at the root of the repository, however when I click on this link it takes me to a page that has a message that the page was not found "Page not found The page you are looking for doesn't exist." [link](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives)
+**Actions done:** 
 
-#### Issue #4794 of Ushahidi Platform
+When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the **Installation guides** link which is within the [REAADME.md](https://github.com/ushahidi/platform) file located at the root of the repository, however when I click on this link it takes me to a page that has a message that the page was not found "Page not found The page you are looking for doesn't exist." [link](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives)
 
 Since I found the problem detailed in the previous paragraph, I decided to try to contribute by reporting the problem of this link. So I created an issue in the (real) Ushahidi Platform repository, below is a detail of the issue that I uploaded:
 
-Issue number: #4846
-Issue Description: Good morning everyone, I am interested in knowing more about the Ushahidi project, however, I was reading the README.md file and I tried to enter the "Installation guides" link in the Useful Links section and I got the following message "Page not found Sorry."
+#### Issue #4846 of Ushahidi Platform (Issue created by me)
+
+I created an issue in (real) Ushahidi Platform repository to report a problem with the link that is in the README.md file at the root of the repository.
+
+**Issue number:** #4846
+
+**Title:** The "Installation guides" link is not enabled in README.md
+
+**Issue text:** 
+
+Good morning everyone, I am interested in knowing more about the Ushahidi project, however, I was reading the README.md file and I tried to enter the "Installation guides" link in the Useful Links section and I got the following message "Page not found Sorry".
 
 Issue URL: https://github.com/ushahidi/platform (README.md)
 
 Impact: Users who cannot find this file may feel misplaced and lost when trying to install Ushahidi
 
 Possible solution: I consider that the file associated with "Installation guides" is not correctly located or was deleted, perhaps it is necessary to load that file again.
-URL issue: https://github.com/ushahidi/platform/issues/4846
+
+**URL Issue:** [https://github.com/ushahidi/platform/issues/4846](https://github.com/ushahidi/platform/issues/4846)
+
+**Author:** mijuanmontalvo
+
+**Actions done:** 
+
+When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the **Installation guides** link which is within the [REAADME.md](https://github.com/ushahidi/platform) file located at the root of the repository, however when I click on this link it takes me to a page that has a message that the page was not found "Page not found The page you are looking for doesn't exist." [link](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives)
 
 
 
