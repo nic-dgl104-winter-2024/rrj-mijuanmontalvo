@@ -41,7 +41,7 @@ Capitalization error: The please in the statement should start in capital letter
 
 **Author:** Gbolahan Oladeji
 
-**Actions done:** When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the link [Installation guides](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives) which is within the REAADME.md file located at the root of the repository, however when I click on this link it takes me to a page that has a message that the page was not found "Page not found The page you are looking for doesn't exist." [link](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives)
+**Actions done:** When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the link [Installation guides] which is within the REAADME.md file located at the root of the repository, however when I click on this link it takes me to a page that has a message that the page was not found "Page not found The page you are looking for doesn't exist." [link](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives)
 
 #### Issue #4794 of Ushahidi Platform
 
