@@ -103,6 +103,8 @@ On the next screen it is possible to see the lines of code that have been change
 
 ![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/2fc867f8-d6c0-48f1-8cab-13e65f7ada10)
 
+I understand the pull request #4849 will be reviewed by the maintainers of Ushahidi Platform.
+
 **Actions done (internal):** 
 
 In order to contribute to my issue #4846, within the [Contribution1 branch](https://github.com/mijuanmontalvo/platform/tree/Contribution1?tab=readme-ov-file) I modified the code of the README.md file, corrected the link of the text "Installation guides", below how the edited text looked:
@@ -110,6 +112,10 @@ In order to contribute to my issue #4846, within the [Contribution1 branch](http
 - "[Installation guides](https://docs.ushahidi.com/platform-developer-documentation/v/"
 
 Replicate the modifications made in Contribution1 branch to the main [develop branch](https://github.com/mijuanmontalvo/platform/tree/develop?tab=readme-ov-file) of my clone.
+
+[Here](https://github.com/mijuanmontalvo/platform/commit/67b1f90396be3ecfcd8e1a282cf9fb7c1874fb10) is the link where it is possible to see my Commit in my clone of Ushahidi Platform repository
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/3d39e6f2-e021-4794-9866-10e37baabcf3)
 
 
 
