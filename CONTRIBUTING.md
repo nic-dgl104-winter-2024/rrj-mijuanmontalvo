@@ -95,7 +95,7 @@ In order to contribute to my issue #4846, within the [Contribution1 branch](http
 
 - "[Installation guides](https://docs.ushahidi.com/platform-developer-documentation/v/"
 
-Replicate the modifications made in Contribution1 branch to the main [develop](https://github.com/mijuanmontalvo/platform/tree/develop?tab=readme-ov-file) branch of my clone
+Replicate the modifications made in Contribution1 branch to the main [develop branch](https://github.com/mijuanmontalvo/platform/tree/develop?tab=readme-ov-file) of my clone
 
 
 
