@@ -18,6 +18,8 @@ In general, I find this type of document very appropriate and very necessary for
 
 I consider that even though the text of the Contributing.md file is small, it is also very concise and makes it very clear that the project is very open to receiving external contributions.
 
+<br>
+<br>
 ## CONTRIBUTE TO EXTERNAL COMMUNITY
 
 I would like to contribute to the repository [ushahidi/platform](https://github.com/ushahidi/platform)
@@ -34,7 +36,7 @@ To start my contribution to the Ushahidi project I have taken the following acti
 
 - I have created a branch with the name Contribution1, in this branch I will make the changes that are necessary for the fork of the initial repository
 
-
+<br>
 ### Issue #4794 of Ushahidi Platform
 
 I checked the [issue #4794](https://github.com/ushahidi/platform/issues/4794), which has the following detail:
@@ -60,6 +62,7 @@ When I was reviewing the repository documentation to try to resolve issue #4794,
 
 Since I found the problem detailed in the previous paragraph, I decided to try to contribute by reporting the problem of this link. So I created an issue in the (real) Ushahidi Platform repository, below is a detail of the issue that I uploaded:
 
+<br>
 ### Issue #4846 of Ushahidi Platform (Issue created by me)
 
 I created an issue #4846 in (real) Ushahidi Platform repository to report a problem with the link that is in the README.md file at the root of the repository.
