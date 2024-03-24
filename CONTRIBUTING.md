@@ -20,7 +20,7 @@ I consider that even though the text of the Contributing.md file is small, it is
 
 ## CONTRIBUTE TO EXTERNAL COMMUNITY
 
-I would like to contribute to the repository (ushahidi/platform)[https://github.com/ushahidi/platform]
+I would like to contribute to the repository [ushahidi/platform](https://github.com/ushahidi/platform)
 
 ### Ushahidi Platform
 
@@ -28,11 +28,11 @@ Ushahidi Platform is an open source web application for information collection, 
 
 **Issue #4794 of Ushahidi Platform**
 
-I checked the next issue: [Outreachy Task Submission] Grammatical Error and Capitalization Error in the error message when adding a new post #4794. This issue is in the repository of (ushahidi/platform)[https://github.com/ushahidi/platform]
+I checked the [issue #4794](https://github.com/ushahidi/platform/issues/4794), which has the following detail
 
-Below is the text that describes the issue:
+**Description:** 
 
-**URL Issue:** [https://github.com/ushahidi/platform/](https://github.com/ushahidi/platform/issues/4794)
+**URL Issue:** [https://github.com/ushahidi/platform/issues/4794](https://github.com/ushahidi/platform/issues/4794)
 
 **Author:** Gbolahan Oladeji
 
