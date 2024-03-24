@@ -287,9 +287,9 @@ In the ushahidi/Community [gitter](https://app.gitter.im/#/room/#ushahidi_Commun
 
 - I checked the issues of the "pattern-library" repository
 
-- I made comments to issue #23 "Write definition of Observer pattern in README.md #23".
+- I made comments to [issue #23 "Write definition of Observer pattern in README.md #23"](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/23).
 
-- I made comments to issue #26 "Identify a potential short list of additional design patterns" and I requested to work on issue #26 about it (issue #26 was assigned to me)
+- I made comments to [issue #26 "Identify a potential short list of additional design patterns"](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26) and I requested to work on issue #26 about it (issue #26 was assigned to me)
 
 - I visited the pull requests tab of the pattern library and read the open pull requests.
 
