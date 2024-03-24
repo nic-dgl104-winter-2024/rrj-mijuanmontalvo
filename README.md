@@ -281,9 +281,7 @@ The most difficult thing was finding a issue in the external and internal reposi
 
 In the ushahidi/Community gitter channel I sent a message with the following text:
 
-"Hello everyone, I am Juan from Ecuador, I good like to know more about Ushahidi, I neve have made a contribution in a project, please could anyone tell me if there is any document where I can see the instructions for contributing in the documentation of this project, thank you very much "
-
-[gitter](https://app.gitter.im/#/room/#ushahidi_Community:gitter.im)
+"Hello everyone, I am Juan from Ecuador, I good like to know more about Ushahidi, I neve have made a contribution in a project, please could anyone tell me if there is any document where I can see the instructions for contributing in the documentation of this project, thank you very much" [gitter](https://app.gitter.im/#/room/#ushahidi_Community:gitter.im)
 
 ## READ THROUGH PATTERN LIBRARY ISSUES
 
