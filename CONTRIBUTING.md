@@ -26,7 +26,16 @@ I would like to contribute to the repository [ushahidi/platform](https://github.
 
 Ushahidi Platform is an open source web application for information collection, visualization and interactive mapping. It helps you to collect info from: SMS, Twitter, RSS feeds, Email. It helps you to process that information, categorize it, geo-locate it and publish it on a map.
 
-#### Issue #4794 of Ushahidi Platform
+To start my contribution to the Ushahidi project I have taken the following actions:
+
+- I have forked the usahhidi project on my personal account ([usahhidi fork](https://github.com/mijuanmontalvo/platform/tree/Contribution1))
+
+- I have made a clone of the fork on my local computer.
+
+- I have created a branch with the name Contribution1, in this branch I will make the changes that are necessary for the fork of the initial repository
+
+
+### Issue #4794 of Ushahidi Platform
 
 I checked the [issue #4794](https://github.com/ushahidi/platform/issues/4794), which has the following detail:
 
@@ -51,9 +60,9 @@ When I was reviewing the repository documentation to try to resolve issue #4794,
 
 Since I found the problem detailed in the previous paragraph, I decided to try to contribute by reporting the problem of this link. So I created an issue in the (real) Ushahidi Platform repository, below is a detail of the issue that I uploaded:
 
-#### Issue #4846 of Ushahidi Platform (Issue created by me)
+### Issue #4846 of Ushahidi Platform (Issue created by me)
 
-I created an issue in (real) Ushahidi Platform repository to report a problem with the link that is in the README.md file at the root of the repository.
+I created an issue #4846 in (real) Ushahidi Platform repository to report a problem with the link that is in the README.md file at the root of the repository.
 
 **Issue number:** #4846
 
@@ -75,7 +84,9 @@ Possible solution: I consider that the file associated with "Installation guides
 
 **Actions done:** 
 
-When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the **Installation guides** link which is within the [REAADME.md](https://github.com/ushahidi/platform) file located at the root of the repository, however when I click on this link it takes me to a page that has a message that the page was not found "Page not found The page you are looking for doesn't exist." [link](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives)
+In order to contribute to my issue #4846, within the [Contribution1 branch](https://github.com/mijuanmontalvo/platform/tree/Contribution1?tab=readme-ov-file) I modified the code of the README.md file, corrected the link of the text "Installation guides", below how the edited text looked:
+
+- "[Installation guides](https://docs.ushahidi.com/platform-developer-documentation/v/"
 
 
 
