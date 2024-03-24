@@ -20,11 +20,15 @@ I consider that even though the text of the Contributing.md file is small, it is
 
 ## CONTRIBUTE TO EXTERNAL COMMUNITY
 
-I would like to work in the next issue: [Outreachy Task Submission] Grammatical Error and Capitalization Error in the error message when adding a new post #4794
+I would like to contribute to the repository (ushahidi/platform)[https://github.com/ushahidi/platform]
+
+Ushahidi Platform is an open source web application for information collection, visualization and interactive mapping. It helps you to collect info from: SMS, Twitter, RSS feeds, Email. It helps you to process that information, categorize it, geo-locate it and publish it on a map.
+
+I would like to review the next issue: [Outreachy Task Submission] Grammatical Error and Capitalization Error in the error message when adding a new post #4794. This issue is in the repository of (ushahidi/platform)[https://github.com/ushahidi/platform]
 
 Below is the text that describes the issue:
 
-**URL Issue:** https://github.com/ushahidi/platform/issues/4794
+**URL Issue:** [https://github.com/ushahidi/platform/](https://github.com/ushahidi/platform/issues/4794)
 
 **Author:** Gbolahan Oladeji
 
@@ -36,5 +40,9 @@ Grammatical error: "please recheck the your input." The word "the" before "your 
 Capitalization error: The please in the statement should start in capital letter 'P'.
 
 I would like to review this issue and search a possible solution.
+
+When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the link [Installation guides](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives) which is located in the REASDME.md file, however this link takes me to a page that has a message that it could not be found the page
+
+
 
 
