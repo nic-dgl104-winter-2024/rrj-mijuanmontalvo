@@ -28,9 +28,14 @@ Ushahidi Platform is an open source web application for information collection, 
 
 **Issue #4794 of Ushahidi Platform**
 
-I checked the [issue #4794](https://github.com/ushahidi/platform/issues/4794), which has the following detail
+I checked the [issue #4794](https://github.com/ushahidi/platform/issues/4794), which has the following detail:
 
-**Description:** 
+**Title:** [Outreachy Task Submission] Grammatical Error and Capitalization Error in the error message when adding a new post
+
+**Description:** the error message when adding a new post is "Failed to create a post. please recheck the your input"  
+
+Grammatical error: "please recheck the your input." The word "the" before "your input" is redundant and should be removed for correct grammar. The correct form should be: "please recheck your input."
+Capitalization error: The please in the statement should start in capital letter 'P'.
 
 **URL Issue:** [https://github.com/ushahidi/platform/issues/4794](https://github.com/ushahidi/platform/issues/4794)
 
