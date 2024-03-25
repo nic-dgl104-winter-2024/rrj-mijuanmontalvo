@@ -347,3 +347,16 @@ Replicate the modifications made in Contribution1 branch to the main [develop br
 
 ## CONTRIBUTE TO PATTERN-LIBRARY
 
+I create the [Pull Request #76](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/76) ("Add Prototype patters and contribute with issue #26"), which consists of the following:
+
+- In the "1. Creational Patterns" section table of the README.md file in the "patterns" folder add a link to the word Prototype, so that when users click, it will take them to the "Prototype" pattern folder
+
+- Inside the "patterns" folder I created a folder called "Prototype" (the folder indicated in the previous paragraph).
+
+- Inside the "Prototype" folder I created two files "README.md" and "Prototype.js".
+
+- In the "README.md" file I have placed a definition of the prototype pattern and an explanation of an example of this type of pattern for javascrip.
+
+- In the "Prototype.js" file add the example code of the prototype pattern for javascrip
+
+  Currently the Pull Request #76 is open
