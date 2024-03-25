@@ -359,4 +359,6 @@ I create the [Pull Request #76](https://github.com/nic-dgl104-winter-2024/patter
 
 - In the "Prototype.js" file add the example code of the prototype pattern for javascrip
 
-  Currently the Pull Request #76 is open
+Currently the Pull Request #76 is open
+
+Within [issue #26](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26) make a comment in which I reported on the loading of pull request #76
