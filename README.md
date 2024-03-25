@@ -406,3 +406,19 @@ I create the [Pull Request #76](https://github.com/nic-dgl104-winter-2024/patter
 Currently the Pull Request #76 is open
 
 Within [issue #26](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/26) make a comment in which I reported on the loading of pull request #76
+
+## FOLLOW-UP QUESTIONS AND REFLECTIONS
+
+The language I chose is PHP, this is an object-oriented language. Starting with version 5, PHP has built in strong object-oriented features, allowing developers to write more modular, reusable, and structured code. OOP in PHP includes concepts such as classes, objects, inheritance, encapsulation, polymorphism, among others.
+
+PHP es bastante compatible con la programación orientada a objetos y proporciona muchas de las características fundamentales necesarias para escribir código orientado a objetos eficiente y modular.
+
+PHP in its beginnings was better known for its procedural programming style, but over time it has adopted more features and practices of object-oriented programming, so it can be considered that PHP is a partially object-oriented language since in its start
+
+PHP is also compatible with other programming paradigms. In addition to object-oriented programming, PHP also supports procedural programming and can also be used to implement other paradigms, such as: 
+
+- Functional programming
+
+- Event-based programming
+
+- Imperative programming
