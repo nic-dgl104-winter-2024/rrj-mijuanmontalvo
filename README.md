@@ -296,7 +296,53 @@ In the ushahidi/Community [gitter](https://app.gitter.im/#/room/#ushahidi_Commun
 
 ## CONTINUE CONTRIBUTIONS TO EXTERNAL COMMUNITY
 
+I created an issue #4846 in (real) Ushahidi Platform repository to report a problem with the link that is in the README.md file at the root of the repository.
 
+**Issue number:** #4846
+
+**Title:** The "Installation guides" link is not enabled in README.md
+
+**Issue text:** 
+
+Good morning everyone, I am interested in knowing more about the Ushahidi project, however, I was reading the README.md file and I tried to enter the "Installation guides" link in the Useful Links section and I got the following message "Page not found Sorry".
+
+Issue URL: https://github.com/ushahidi/platform (README.md)
+
+Impact: Users who cannot find this file may feel misplaced and lost when trying to install Ushahidi
+
+Possible solution: I consider that the file associated with "Installation guides" is not correctly located or was deleted, perhaps it is necessary to load that file again.
+
+**URL Issue:** [https://github.com/ushahidi/platform/issues/4846](https://github.com/ushahidi/platform/issues/4846)
+
+**Author:** mijuanmontalvo
+
+**Actions done (external):**
+
+I checked the pull request list in [repository of Ushahidi Platform](https://github.com/ushahidi/platform/pull/4849) and currently there is a open pull request (#4849) that is related to my issue #4846:
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/024b034c-d925-416e-bb7a-83e8b8cb6eb7)
+
+[Here](https://github.com/ushahidi/platform/pull/4849) it is possible to see more detail about pull request #4849
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/91e749ec-ef24-47ce-a1ea-8931794b55f2)
+
+On the next screen it is possible to see the lines of code that have been changed in the pull request #4849
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/2fc867f8-d6c0-48f1-8cab-13e65f7ada10)
+
+I understand the pull request #4849 will be reviewed by the maintainers of Ushahidi Platform.
+
+**Actions done (internal):** 
+
+In order to contribute to my issue #4846, within the [Contribution1 branch](https://github.com/mijuanmontalvo/platform/tree/Contribution1?tab=readme-ov-file) I modified the code of the README.md file, corrected the link of the text "Installation guides", below how the edited text looked:
+
+- "[Installation guides](https://docs.ushahidi.com/platform-developer-documentation/v/"
+
+Replicate the modifications made in Contribution1 branch to the main [develop branch](https://github.com/mijuanmontalvo/platform/tree/develop?tab=readme-ov-file) of my clone.
+
+[Here](https://github.com/mijuanmontalvo/platform/commit/67b1f90396be3ecfcd8e1a282cf9fb7c1874fb10) is the link where it is possible to see my Commit in my clone of Ushahidi Platform repository
+
+![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/3d39e6f2-e021-4794-9866-10e37baabcf3)
 
 
 ## CONTRIBUTE TO PATTERN-LIBRARY
