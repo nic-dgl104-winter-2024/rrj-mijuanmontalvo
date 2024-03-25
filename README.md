@@ -4,9 +4,13 @@
 
 ## Assignment - Research and Reflection Journal between week 8 and week 14.
 
+<br>
 
+<br>
 
 # Week - 8
+
+<br>
 
 ## Research a new language - Processing
 
@@ -35,6 +39,8 @@ In these places it is possible to find information for those who want to learn t
 
 Processing is a specialized language for visual arts projects. I did a quick search for information on the Processing programming language and found interesting information. I have learned that there are different languages for specific projects and that there is valuable information on the Internet.
 
+<br>
+
 ## Write a user story
 
 An application that I use regularly is MonTransit, below is my user story
@@ -55,6 +61,7 @@ As a MonTransit user, I can see that the application has a map where it indices 
 
 *Acceptance criteria:* On each stop bus in map there is a tag with its address
 
+<br>
 
 ## Choose a language for community code
 
@@ -63,6 +70,8 @@ I would like to focus on the PHP programming language.
 Last semester I took the course "Introduction to PHP", in this course I developed a small project, I do not have much experience in this programming language, however I liked the results that can be achieved with this language. 
 
 I would like to learn more about this programming language because it works very well with HTML and with databases (free software) like MYSQL. I consider it to be a very good option for building web applications. I like to make queries in databases and I believe that this would be good practice.
+
+<br>
 
 ## Star github topics and repositories of interest
 
@@ -74,8 +83,13 @@ In order to prepare for the Community Code project, I have visited the https://g
 
 On this website I applied several "PHP" filters to which I obtained many options of repositories related to PHP projects.
 
+<br>
+
+<br>
 
 # Week 9
+
+<br>
 
 ## Read the community code assignment
 
@@ -83,8 +97,9 @@ This assignment is composed of two parts. I will have to contribute to both part
 
 In Part 2 I will also have to contribute to a true open source community. I will contribute to the DGL 104 pattern library repository to help produce a code resource for potential future DGL 104 students.
 
-## Read “HOW TO CONTRIBUTE TO OPEN SOURCE”
+<br>
 
+## Read “HOW TO CONTRIBUTE TO OPEN SOURCE”
 
 Contributing to open source can be a rewarding way to learn, teach, and gain experience in virtually any skill you can imagine.
 
@@ -108,6 +123,8 @@ There are all kinds of ways to get involved in an open source project, and a few
 - Review project code and recommend improvements.
 
 In conclusion, it is possible to contribute to a project in various ways not only through the code, the important thing is to understand that the contribution will help the project, its readers and will also help the person contributing with practice and learning.
+
+<br>
 
 ## Find potential projects to contribute to
 
@@ -138,6 +155,7 @@ URL Github: https://github.com/SolidInvoice/SolidInvoice
 I chose this project because it is a project that has 15 contributors, 35 issues and records recent updates. SolidInvoice is a sophisticated open-source invoicing application designed to assist small businesses and freelancers in efficiently managing their daily billing operations. With its comprehensive range of features, this elegant online platform ensures that you receive timely payments.
 ![Checklist-SolidInvoice](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/26309fcf-a6b6-4082-8cc3-0262fa8606c2)
 
+<br>
 
 ## Identify issues to support
 
@@ -198,6 +216,8 @@ Browser:
 Safari, Firefox, Google Chrome
 Same result in all cases.
 
+<br>
+
 ## Summary for slack
 
 One of the projects that I have reviewed and could contribute to is Ushahidi Platform.
@@ -212,7 +232,13 @@ Capitalization error: The please in the statement should start in capital letter
 
 I consider that since I do not have great knowledge of PHP coding, I could contribute to the review of the interface in search of other grammatical errors and suggest improvement changes to the application text.
 
+<br>
+
+<br>
+
 # Week 10
+
+<br>
 
 ## ASSESS EXTERNAL COMMUNITY CONTRIBUTION GUIDELINES
 
@@ -225,10 +251,13 @@ As indicated in the previous paragraph, the project is very open to external con
 
 **Gitter channel of Ushahidi project URL:** [gitter](https://app.gitter.im/#/room/#ushahidi_Community:gitter.im)
 
+<br>
 
 ## WRITE A SUMMARY ON SLACK
 
 On Sunday, March 17, I sent a message in Slack about my summary of the Contributing.md file, in the message I included the url of the file and a url of a gitter channel for new contributors to the Ushahidi project
+
+<br>
 
 ## CONTRIBUTE TO EXTERNAL COMMUNITY
 
@@ -257,6 +286,8 @@ Capitalization error: The please in the statement should start in capital letter
 
 I would like to review this issue and search a possible solution.
 
+<br>
+
 ## CONTRIBUTE TO PATTERN-LIBRARY
 
 To start my contribution to the pattern-library project I have taken the following actions:
@@ -269,19 +300,28 @@ To start my contribution to the pattern-library project I have taken the followi
 
 I would like to work in the issue: "Write definition of Observer pattern in README.md #23" because I am new in design patterns and I would like to start learning with the definitions firt
 
+<br>
+
 ## FOLLOW-UP QUESTIONS AND REFLECTIONS
 
 **What is the hardest/most challenging thing you had to do this week for DGL 104? How did you overcome this challenge?**
 
 The most difficult thing was finding a issue in the external and internal repositories that I could support with my level of knowledge, taking into account that I have never performed tasks similar to these. The way to overcome this problem was to review as much information as possible related to the issues.
 
+<br>
+
+<br>
+
 # Week 11
+<br>
 
 ## CONNECT WITH YOUR EXTERNAL COMMUNITY
 
 In the ushahidi/Community [gitter](https://app.gitter.im/#/room/#ushahidi_Community:gitter.im) channel I sent a message with the following text:
 
 "Hello everyone, I am Juan from Ecuador, I good like to know more about Ushahidi, I neve have made a contribution in a project, please could anyone tell me if there is any document where I can see the instructions for contributing in the documentation of this project, thank you very much". 
+
+<br>
 
 ## READ THROUGH PATTERN LIBRARY ISSUES
 
@@ -293,6 +333,7 @@ In the ushahidi/Community [gitter](https://app.gitter.im/#/room/#ushahidi_Commun
 
 - I visited the pull requests tab of the pattern library and read the open pull requests.
 
+<br>
 
 ## CONTINUE CONTRIBUTIONS TO EXTERNAL COMMUNITY
 
@@ -344,6 +385,9 @@ Replicate the modifications made in Contribution1 branch to the main [develop br
 
 ![image](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/3d39e6f2-e021-4794-9866-10e37baabcf3)
 
+I updated the CONTRIBUTING.md file with all the progress of the contribution for the EXTERNAL COMMUNITY
+
+<br>
 
 ## CONTRIBUTE TO PATTERN-LIBRARY
 
