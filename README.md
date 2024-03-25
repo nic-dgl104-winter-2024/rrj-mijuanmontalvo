@@ -297,5 +297,7 @@ In the ushahidi/Community [gitter](https://app.gitter.im/#/room/#ushahidi_Commun
 ## CONTINUE CONTRIBUTIONS TO EXTERNAL COMMUNITY
 
 
+
+
 ## CONTRIBUTE TO PATTERN-LIBRARY
 
