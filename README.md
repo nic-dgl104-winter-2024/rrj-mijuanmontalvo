@@ -292,7 +292,7 @@ I would like to review this issue and search a possible solution.
 
 To start my contribution to the pattern-library project I have taken the following actions:
 
-- I have forked the usahhidi project on my personal account ([pattern-library fork](https://github.com/mijuanmontalvo/pattern-library))
+- I have forked the pattern-library repository on my personal account ([pattern-library fork](https://github.com/mijuanmontalvo/pattern-library))
 
 - I have made a clone of the fork on my local computer.
 
