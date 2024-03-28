@@ -130,6 +130,11 @@ To start my contribution to the Ushahidi project I have taken the following acti
 
 - I have created a branch with the name Contribution1, in this branch I will make the changes that are necessary for the fork of the initial repository
 
+### Connect with my external community
+
+In the ushahidi/Community [gitter](https://app.gitter.im/#/room/#ushahidi_Community:gitter.im) channel I sent a message with the following text:
+
+"Hello everyone, I am Juan from Ecuador, I good like to know more about Ushahidi, I neve have made a contribution in a project, please could anyone tell me if there is any document where I can see the instructions for contributing in the documentation of this project, thank you very much". 
 
 
 ### Issue #4794 of Ushahidi Platform
@@ -156,12 +161,6 @@ Capitalization error: The please in the statement should start in capital letter
 When I was reviewing the repository documentation to try to resolve issue #4794, I tried to access the **Installation guides** link which is within the [REAADME.md](https://github.com/ushahidi/platform) file located at the root of the repository, however when I click on this link it takes me to a page that has a message that the page was not found "Page not found The page you are looking for doesn't exist." [link](https://docs.ushahidi.com/platform-developer-documentation/development-and-code/setup_alternatives)
 
 Since I found the problem detailed in the previous paragraph, I decided to try to contribute by reporting the problem of this link. So I created an issue in the (real) Ushahidi Platform repository, below is a detail of the issue that I uploaded:
-
-### CONNECT WITH MY EXTERNAL COMMUNITY
-
-In the ushahidi/Community [gitter](https://app.gitter.im/#/room/#ushahidi_Community:gitter.im) channel I sent a message with the following text:
-
-"Hello everyone, I am Juan from Ecuador, I good like to know more about Ushahidi, I neve have made a contribution in a project, please could anyone tell me if there is any document where I can see the instructions for contributing in the documentation of this project, thank you very much". 
 
 
 ### Issue #4846 of Ushahidi Platform (Issue created by me)
