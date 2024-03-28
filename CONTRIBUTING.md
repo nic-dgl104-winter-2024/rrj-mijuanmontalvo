@@ -21,7 +21,99 @@ I consider that even though the text of the Contributing.md file is small, it is
 
 ## CONTRIBUTE TO EXTERNAL COMMUNITY
 
-I would like to contribute to the repository [ushahidi/platform](https://github.com/ushahidi/platform)
+
+### Find potential projects to contribute to
+
+Below are three PHP projects that I selected to review their information:
+
+**Project 1:** phpDocumentor
+
+URL Github: https://github.com/phpDocumentor/phpDocumentor
+
+I chose this project because it is a project that has 157 contributors, 154 issues and records recent updates. phpDocumentor stands as the de-facto documentation tool for PHP projects, offering a robust solution for generating comprehensive documentation effortlessly. By analyzing your PHP source code and DocBlock comments, phpDocumentor generates a complete set of API documentation, making it an indispensable tool for developers striving for clear and well-documented codebases.tool for developers striving for clear and well-documented codebases.
+![Checklist-phpDocumentor](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/3e528648-ea0e-4dce-af57-4f769655ff5c)
+
+
+
+**Project 2:** Ushahidi
+
+URL Github: https://github.com/ushahidi/platform
+
+I chose this project because it is a project that has 66 contributors, 666 issues and records recent updates. Ushahidi Platform is an open source web application for information collection, visualization and interactive mapping. It helps you to collect info from: SMS, Twitter, RSS feeds, Email. It helps you to process that information, categorize it, geo-locate it and publish it on a map.
+![Checklist-ushahidi](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/048f23b9-bd5d-44f7-89c5-debb7b1f6981)
+
+
+
+**Project 3:** SolidInvoice
+
+URL Github: https://github.com/SolidInvoice/SolidInvoice
+
+I chose this project because it is a project that has 15 contributors, 35 issues and records recent updates. SolidInvoice is a sophisticated open-source invoicing application designed to assist small businesses and freelancers in efficiently managing their daily billing operations. With its comprehensive range of features, this elegant online platform ensures that you receive timely payments.
+![Checklist-SolidInvoice](https://github.com/nic-dgl104-winter-2024/rrj-mijuanmontalvo/assets/122574675/26309fcf-a6b6-4082-8cc3-0262fa8606c2)
+
+<br>
+
+## Identify issues to support
+
+Below are some problems detected that I could contribute to.
+
+**To Project phpDocumentor:**
+
+Improve search UX in the default template #3411
+
+URL: https://github.com/phpDocumentor/phpDocumentor/issues/3411
+
+Detail of the issues and the suggested recommendation
+
+The current search input opens a box with the results while typing with no control, and totally hide the page including the search input.
+
+Mutiple UX/ergonomy/accessibility issues in consequence:
+
+- We do not have all the same ability and speed to type on a keyboard. While some of geeks can type a complete long word before the box opens, many other humans will only type few characters.
+- Once the box is open, impossible to continue to read what we was typing, so impossible to continue to type for most of humans. (as @jaapio was saying in the issue - Default template search is broken #3092: "Apart from the failing test I think we should have the search field in the search results dialog, as it is unexpected for the user to be able to type in a hidden field.")
+- There is no way to access the results page/box from another method (for ex direct access to a search in our dev softwares like selecting a word and "search into…"), because of lack of URL/query dynamic change, and no use of the URL after page load. It's always in best practices to provide direct URL access to such an important feature as the search.
+
+Suggested improvements:
+
+- The search input must never be hidden, always accessible when displaying the results. The results must include the same search input, pre-fill with the same content we typed in the page, and with focus inside to continue/change. When we close the results, the focus must return to the input in the page.
+- At the same time the system detects that it can display the results or change the current results (if changes in the input box), the URL must be dynamically changed in accordance, with a query added like "?search=my_input_content".
+- When we close the results, the query in the URL must be removed.
+- During the loading of a page, IF the JS detects this same query param in the URL, then the system: 1) pre-fill the search input with the content of the query param + 2) displays the results for this request, in the same way as it does when we directly type.
+With that, searching will be waaay more accessible for many kind of persons and usages. :)
+
+**To Project  ushahidi:**
+
+[Outreachy Task Submission] Grammatical Error and Capitalization Error in the error message when adding a new post #4794
+
+URL: https://github.com/ushahidi/platform/issues/4794
+
+Issue details:
+
+the error message when adding a new post is "Failed to create a post. please recheck the your input"
+Grammatical error: "please recheck the your input." The word "the" before "your input" is redundant and should be removed for correct grammar. The correct form should be: "please recheck your input."
+Capitalization error: The please in the statement should start in capital letter 'P'.
+
+**To Project SolidInvoice:**
+
+Unable to install - get 404 message from server. #970
+
+URL: https://github.com/SolidInvoice/SolidInvoice/issues/970
+
+Issue details:
+
+Hello
+I have tried installation several times, but get a 404 error from the server when I call the folder with the SolidInvoice files.
+I have done the following:
+Uploaded 2.2.5 as tar and zip, extracted on server.
+2.2.5 zip extracted on MacBook client, and uploaded via FTP
+2.2.0 uploaded as tar file and unpacked on server.
+Client: MacBook
+Browser:
+Safari, Firefox, Google Chrome
+Same result in all cases.
+
+
+I decided to contribute to the repository [ushahidi/platform](https://github.com/ushahidi/platform)
 
 ### Ushahidi Platform
 
