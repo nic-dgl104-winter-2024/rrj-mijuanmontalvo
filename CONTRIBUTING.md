@@ -1,4 +1,4 @@
-# About CONTRIBUTING.md file
+# About CONTRIBUTING.md file of repository ushahidi/platform
 
 **URL:** https://github.com/mijuanmontalvo/platform/blob/develop/CONTRIBUTING.md
 
