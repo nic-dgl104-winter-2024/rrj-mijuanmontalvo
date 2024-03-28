@@ -215,11 +215,11 @@ Replicate the modifications made in Contribution1 branch to the main [develop br
 
 ## Reflection on success
 
-I consider that the problem detected (failure in the installation guides link) was reported through issue #4846 and that this issue was addressed through a pull request (#4849). As of the date of updating this document, the pull request is still open but I believe that once it is attended to, issue #4846 will be resolved.
+I consider that the problem detected (failure in the installation guides link) was reported through issue #4846 and that this issue will be addressed through a pull request (#4849). As of the date of updating this document, the pull request is still open but I believe that once it is attended to, issue #4846 will be resolved.
 
 Initially, it was a problem for me to understand how issues and pull requests work, but when I investigated them I managed to understand them. It was also difficult to understand a project that was totally new to me.
 
 ## Discussion of next steps
 
-I consider that the last step to follow to solve the detected problem is to verify that the pull request #4849 is accepted, which was created to address my issue #4846
+I consider that the last step to follow to solve the detected issue is to verify that the pull request #4849 is accepted, which was created to address my issue #4846
 
