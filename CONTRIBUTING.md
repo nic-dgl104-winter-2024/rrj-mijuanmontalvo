@@ -66,7 +66,7 @@ Since I found the problem detailed in the previous paragraph, I decided to try t
 
 ### Issue #4846 of Ushahidi Platform (Issue created by me)
 
-I created an issue #4846 in (real) Ushahidi Platform repository to report a problem with the link that is in the README.md file at the root of the repository.
+I created an [issue #4846](https://github.com/ushahidi/platform/issues/4846) in (real) Ushahidi Platform repository to report a problem with the link that is in the README.md file at the root of the repository.
 
 **Issue number:** #4846
 
