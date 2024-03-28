@@ -118,7 +118,7 @@ In general, I find this type of document very appropriate and very necessary for
 I consider that even though the text of the Contributing.md file is small, it is also very concise and makes it very clear that the project is very open to receiving external contributions.
 
 
-### Ushahidi Platform
+# Ushahidi Platform
 
 Ushahidi Platform is an open source web application for information collection, visualization and interactive mapping. It helps you to collect info from: SMS, Twitter, RSS feeds, Email. It helps you to process that information, categorize it, geo-locate it and publish it on a map.
 
