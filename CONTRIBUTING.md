@@ -157,6 +157,11 @@ When I was reviewing the repository documentation to try to resolve issue #4794,
 
 Since I found the problem detailed in the previous paragraph, I decided to try to contribute by reporting the problem of this link. So I created an issue in the (real) Ushahidi Platform repository, below is a detail of the issue that I uploaded:
 
+### CONNECT WITH MY EXTERNAL COMMUNITY
+
+In the ushahidi/Community [gitter](https://app.gitter.im/#/room/#ushahidi_Community:gitter.im) channel I sent a message with the following text:
+
+"Hello everyone, I am Juan from Ecuador, I good like to know more about Ushahidi, I neve have made a contribution in a project, please could anyone tell me if there is any document where I can see the instructions for contributing in the documentation of this project, thank you very much". 
 
 
 ### Issue #4846 of Ushahidi Platform (Issue created by me)
