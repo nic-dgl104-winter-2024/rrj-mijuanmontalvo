@@ -428,4 +428,9 @@ PHP is also compatible with other programming paradigms. In addition to object-o
 
 ### Final reflection on my contributions
 
+Contributing to a project through a github repository is a completely new activity for me, I have learned a lot about what a fork, a clone, a branch, etc. is. I have also learned how to review an issue and how to make a pull request, doing these activities was a challenge for me, however I am very happy to have done these activities and I hope to have contributed something to the Ushahidi Platform such as the pattern-library repository. .
+
+I consider that the process of contributing involves that contributors must try to understand well the problem (issue) in which they want to contribute in order to contribute with an adequate improvement, or at the same time investigate the project very well to try to find any weakness or failure and thus creating an issue in which other contributors can contribute or the same person can contribute.
+
+In general, I really liked this act of contributing, it is a very rewarding activity.
 
