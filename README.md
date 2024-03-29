@@ -422,3 +422,10 @@ PHP is also compatible with other programming paradigms. In addition to object-o
 - Event-based programming
 
 - Imperative programming
+
+
+# Week 12
+
+### Final reflection on my contributions
+
+
