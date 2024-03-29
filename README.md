@@ -426,7 +426,22 @@ PHP is also compatible with other programming paradigms. In addition to object-o
 
 # Week 12
 
-### Final reflection on my contributions
+
+## CONTRIBUTE TO PATTERN-LIBRARY
+
+@ash-teach made some observations on pull request #76, I reviewed the observations made by @ash-teach and made some modifications to the pull request, below is a summary of the modifications made:
+
+- In the README.md file of the prototype pattern, add a section that includes a java example and add a file with a java example.
+
+- In the README.md file I removed all HTML tags <br>
+- I modified the content of the JavaScript prototype pattern, now it is gone, there is no code in the README.md file, all the code is in the .js file
+- Regarding the inline code, I removed the bold emphasis, now the code words are in single backticks.
+- I fixed the spelling error (Resources), now it shows "Resources"
+- I moved all the prototype pattern information to the patterns\Creational\Prototype folder and set the links to point to this new path.
+
+Finally, I wrote a comment on the pull request informing about the changes made.
+
+## Final reflection on my contributions
 
 Contributing to a project through a github repository is a completely new activity for me, I have learned a lot about what a fork, a clone, a branch, etc. is. I have also learned how to review an issue and how to make a pull request, doing these activities was a challenge for me, however I am very happy to have done these activities and I hope to have contributed something to the Ushahidi Platform such as the pattern-library repository. .
 
