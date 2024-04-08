@@ -447,7 +447,7 @@ No class
 
 # Week 14
 
-Pattern Design: Check out my (pull request #76) [https://github.com/ushahidi/platform/pull/4849], which was accepted and uploaded to the Pattern Design repository.
+Pattern Design: Check out my (pull request #76) [https://github.com/nic-dgl104-winter-2024/pattern-library/pull/76], which was accepted and uploaded to the Pattern Design repository.
 
 External community: Review (pull requests #4849)[https://github.com/ushahidi/platform/pull/4849], which is related to solving issue #4846 (issue created by me), this pull requests is still open.
 
