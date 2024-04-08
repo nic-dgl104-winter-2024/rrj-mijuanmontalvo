@@ -441,11 +441,30 @@ PHP is also compatible with other programming paradigms. In addition to object-o
 
 Finally, I wrote a comment on the pull request informing about the changes made.
 
+# Week 13
+
+No class
+
+# Week 14
+
+
+
 ## Final reflection on my contributions
 
-Contributing to a project through a github repository is a completely new activity for me, I have learned a lot about what a fork, a clone, a branch, etc. is. I have also learned how to review an issue and how to make a pull request, doing these activities was a challenge for me, however I am very happy to have done these activities and I hope to have contributed something to the Ushahidi Platform such as the pattern-library repository. .
+Contributing to a project through a Github repository is a completely new activity for me, I have learned a lot about what a fork, a clone, a branch, etc. is. I have also learned how to review an issue and how to make a pull request using Github, doing these activities was a challenge for me, however I am very happy to have done these activities and I hope to have contributed something to the Ushahidi Platform, as well as I hope to have contributed to the patterns library repository.
 
-I consider that the process of contributing involves that contributors must try to understand well the problem (issue) in which they want to contribute in order to contribute with an adequate improvement, or at the same time investigate the project very well to try to find any weakness or failure and thus creating an issue in which other contributors can contribute or the same person can contribute.
+I believe that the process of contributing implies that contributors must try to understand well the problem (issue) to which they want to contribute in order to contribute with an adequate improvement, or at the same time research the project very well to try to find a solution. weakness or failure and thus creating a problem to which other contributors may contribute or the same person may contribute.
 
-In general, I really liked this act of contributing, it is a very rewarding activity.
+In general, I really liked this act of contributing, it is a very rewarding activity. I consider that the learning I have received about contributing projects has been something that helped me better understand how projects are structured in Github repositories. . I consider that managing, reviewing, contributing within a project is an activity that requires a lot of attention to detail.
+
+In this course I also review information about what a development paradigm is, which refers to a set of principles, rules and practices that guide the software development process. These paradigms define the way software development is structured, organized, and approached. Some common examples of development paradigms are object-oriented programming (OOP), aspect-oriented programming (AOP), functional programming, among others. Development paradigms influence how developers think about problems and how they solve those problems through code. For example, in object-oriented programming, developers think in terms of objects and classes, while in functional programming, they focus on functions and function composition.
+
+On the other hand, also review information from pattern designs, which are tested and documented solutions to common problems in software development. Design patterns provide a reusable approach to solving specific software design problems effectively. These patterns bring together the best practices and experiences accumulated by the development community over time.
+
+Design patterns are classified into different categories such as creational patterns (dealing with the creation of objects), structural patterns (dealing with the composition of classes or objects), and behavioral patterns (dealing with communication between objects).
+
+In summary, development paradigms define how software development is approached in general terms, while design patterns provide specific, tested solutions to common problems in software design.
+
+In conclusion, I am happy with what I learned in this course and I hope that in the future I can investigate more about these interesting topics.
+
 
